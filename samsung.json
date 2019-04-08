@@ -3,75 +3,15 @@
     "vendor" : "samsung",
     "cs": {
         "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
+        "text": "cs",
     },
     "de": {
         "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
+        "text": "de",
 
     },
     "en": {
         "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "es": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "fr": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "it": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "ja": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "ko": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-        "notes": "Samsung notes"
-    },
-    "nl": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "pl": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "pt": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-
-    },
-    "ru": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-        
-    },
-    "tr": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-        
-    },
-    "zh-rCN": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
-        
-    },
-    "zh-rTW": {
-        "title": "Samsung",
-        "text": "<![CDATA[<p><b>Samsung S8 and later:</b><br/>1. Go to <i>Settings</i> &gt; <i>Device Maintenance</i> &gt; <i>Battery</i><br/>2. Scroll to <b><i>Unmonitored apps</i></b> &gt; tap on the three dots menu<br/>3. Add the Runtastic app to the list</p><p><b>Other Samsung phones:</b><br/>1. Go to <i>Phone settings</i> &gt; <i>Applications</i> &gt; tap on the three dots menu<br/>2. Select Special Access > Optimize Battery usage<i></i><br/>3. Deselect Runtastic app from the list</p>]]>",
+        "text": "en",
     }
 }
