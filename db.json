@@ -1,21 +1,16 @@
-{
-    "version": "1.0",
-    "vendor" : "samsung",
-    "content" : [
-        {
-            "cs": {
-                "title": "Samsung",
-                "text": "cs",
-            },
-            "de": {
-                "title": "Samsung",
-                "text": "de",
-
-            },
-            "en": {
-                "title": "Samsung",
-                "text": "en",
-            }
-        }
-    ]
+{  
+   "version":"1.0",
+   "vendor":"samsung",
+   "cs":{  
+      "title":"Samsung",
+      "text":"cs"
+   },
+   "de":{  
+      "title":"Samsung",
+      "text":"de"
+   },
+   "en":{  
+      "title":"Samsung",
+      "text":"en"
+   }
 }
